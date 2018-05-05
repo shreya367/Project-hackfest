@@ -3,8 +3,8 @@ This project aims to build a simple application and online portal to help in red
 
 There are two versions of the app- Citizen ond police version for citizens and police respectively. Two run the project:
 
-Download citizen and police versions.
-Open android studio and build new projects
-Import Citizen version
-Build the app and it can be launched in your phone using usb cable or on android simulator
-Follow similar steps for police version.
+1. Download citizen and police versions.
+2. Open android studio and build new projects
+3. Import Citizen version
+4. Build the app and it can be launched in your phone using usb cable or on android simulator
+5. Follow similar steps for police version.
