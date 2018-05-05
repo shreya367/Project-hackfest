@@ -8,3 +8,5 @@ There are two versions of the app- Citizen ond police version for citizens and p
 3. Import Citizen version
 4. Build the app and it can be launched in your phone using usb cable or on android simulator
 5. Follow similar steps for police version.
+
+For better understanding, go through the file "HackfestPresentation.pptx"
